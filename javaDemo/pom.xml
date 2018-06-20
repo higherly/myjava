@@ -13,6 +13,9 @@
         <module>java-distributed</module>
         <module>java-thread</module>
         <module>java-io</module>
+        <module>java-basic</module>
+        <module>java-collection</module>
+        <module>java-http</module>
     </modules>
 
 
